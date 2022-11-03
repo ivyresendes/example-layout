@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body, html {
+    min-height: 100vh;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+}
+
+header {
+    background-color: rgb(44, 44, 44);
+    color: white;
+}
+
+footer {
+    background-color: rgb(128, 128, 128);
+    color: white;
+}
+
+.item-1 {
+    background-color: rgb(214, 112, 112);
+}
+.item-2 {
+    background-color: rgb(227, 193, 107);
+}
+.item-3 {
+    background-color: rgb(74, 181, 158);
+}
+.item-4 {
+    background-color: rgb(255, 161, 127);
+}
+.item-5 {
+    background-color: rgb(221, 233, 90);
+}
